@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ecom Webapp TestSuite" duration-ms="42770" started-at="2021-10-28T05:42:09 UTC" finished-at="2021-10-28T05:42:51 UTC">
+    <groups>
+    </groups>
+    <test name="Amazon Test" duration-ms="22919" started-at="2021-10-28T05:42:09 UTC" finished-at="2021-10-28T05:42:31 UTC">
+      <class name="com.webapp.test.amazon.AmazonNavListTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.amazon.AmazonNavListTest@74ad1f1f]" name="setUp" is-config="true" duration-ms="2546" started-at="2021-10-28T05:42:16 UTC" finished-at="2021-10-28T05:42:18 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFashionNavLink()[pri:0, instance:com.webapp.test.amazon.AmazonNavListTest@74ad1f1f]" name="testFashionNavLink" duration-ms="2153" started-at="2021-10-28T05:42:18 UTC" finished-at="2021-10-28T05:42:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFashionNavLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.amazon.AmazonNavListTest@74ad1f1f]" name="tearDown" is-config="true" duration-ms="126" started-at="2021-10-28T05:42:20 UTC" finished-at="2021-10-28T05:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.amazon.AmazonNavListTest@74ad1f1f]" name="setUp" is-config="true" duration-ms="2753" started-at="2021-10-28T05:42:21 UTC" finished-at="2021-10-28T05:42:23 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMobileNavLink()[pri:0, instance:com.webapp.test.amazon.AmazonNavListTest@74ad1f1f]" name="testMobileNavLink" duration-ms="2825" started-at="2021-10-28T05:42:23 UTC" finished-at="2021-10-28T05:42:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNavLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.amazon.AmazonNavListTest@74ad1f1f]" name="tearDown" is-config="true" duration-ms="183" started-at="2021-10-28T05:42:26 UTC" finished-at="2021-10-28T05:42:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webapp.test.amazon.AmazonNavListTest -->
+      <class name="com.webapp.test.amazon.AmazonHompageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.amazon.AmazonHompageTest@7a9273a8]" name="setUp" is-config="true" duration-ms="3419" started-at="2021-10-28T05:42:09 UTC" finished-at="2021-10-28T05:42:12 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAmazonHomePageSourceURl()[pri:0, instance:com.webapp.test.amazon.AmazonHompageTest@7a9273a8]" name="testAmazonHomePageSourceURl" duration-ms="402" started-at="2021-10-28T05:42:12 UTC" finished-at="2021-10-28T05:42:12 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonHomePageSourceURl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.amazon.AmazonHompageTest@7a9273a8]" name="tearDown" is-config="true" duration-ms="159" started-at="2021-10-28T05:42:12 UTC" finished-at="2021-10-28T05:42:13 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.amazon.AmazonHompageTest@7a9273a8]" name="setUp" is-config="true" duration-ms="2794" started-at="2021-10-28T05:42:13 UTC" finished-at="2021-10-28T05:42:15 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAmazonHomePageTitle()[pri:0, instance:com.webapp.test.amazon.AmazonHompageTest@7a9273a8]" name="testAmazonHomePageTitle" duration-ms="232" started-at="2021-10-28T05:42:15 UTC" finished-at="2021-10-28T05:42:16 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.amazon.AmazonHompageTest@7a9273a8]" name="tearDown" is-config="true" duration-ms="200" started-at="2021-10-28T05:42:16 UTC" finished-at="2021-10-28T05:42:16 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webapp.test.amazon.AmazonHompageTest -->
+      <class name="com.webapp.test.amazon.AmazonSearchProductTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.amazon.AmazonSearchProductTest@6a1aab78]" name="setUp" is-config="true" duration-ms="2497" started-at="2021-10-28T05:42:26 UTC" finished-at="2021-10-28T05:42:29 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAmazonProductSearch()[pri:0, instance:com.webapp.test.amazon.AmazonSearchProductTest@6a1aab78]" name="testAmazonProductSearch" duration-ms="2429" started-at="2021-10-28T05:42:29 UTC" finished-at="2021-10-28T05:42:31 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonProductSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.amazon.AmazonSearchProductTest@6a1aab78]" name="tearDown" is-config="true" duration-ms="128" started-at="2021-10-28T05:42:31 UTC" finished-at="2021-10-28T05:42:31 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webapp.test.amazon.AmazonSearchProductTest -->
+    </test> <!-- Amazon Test -->
+    <test name="Facebook Test" duration-ms="19826" started-at="2021-10-28T05:42:31 UTC" finished-at="2021-10-28T05:42:51 UTC">
+      <class name="com.webapp.test.facebook.FacebookLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.facebook.FacebookLoginTest@12c8a2c0]" name="setUp" is-config="true" duration-ms="1321" started-at="2021-10-28T05:42:31 UTC" finished-at="2021-10-28T05:42:33 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.webapp.test.facebook.FacebookLoginTest@12c8a2c0]" name="testLogin" duration-ms="16871" started-at="2021-10-28T05:42:33 UTC" finished-at="2021-10-28T05:42:50 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.facebook.FacebookLoginTest@12c8a2c0]" name="tearDown" is-config="true" duration-ms="118" started-at="2021-10-28T05:42:50 UTC" finished-at="2021-10-28T05:42:50 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webapp.test.facebook.FacebookLoginTest@12c8a2c0]" name="setUp" is-config="true" duration-ms="1231" started-at="2021-10-28T05:42:50 UTC" finished-at="2021-10-28T05:42:51 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginFieldsDisplayed()[pri:0, instance:com.webapp.test.facebook.FacebookLoginTest@12c8a2c0]" name="testLoginFieldsDisplayed" duration-ms="156" started-at="2021-10-28T05:42:51 UTC" finished-at="2021-10-28T05:42:51 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFieldsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webapp.test.facebook.FacebookLoginTest@12c8a2c0]" name="tearDown" is-config="true" duration-ms="118" started-at="2021-10-28T05:42:51 UTC" finished-at="2021-10-28T05:42:51 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webapp.test.facebook.FacebookLoginTest -->
+    </test> <!-- Facebook Test -->
+  </suite> <!-- Ecom Webapp TestSuite -->
+</testng-results>
