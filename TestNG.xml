@@ -12,4 +12,10 @@
 			<class name="com.webapp.test.facebook.FacebookLoginTest"></class>
 		</classes>
 	</test>
+	
+	<test name="Group Test">
+		<classes>
+			<class name="com.webapp.test.group.BrowserGroupTest"></class>
+		</classes>
+	</test>
 </suite>
